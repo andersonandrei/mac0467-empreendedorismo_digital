@@ -1,6 +1,6 @@
 #+STARTUP: overview indent inlineimages logdrawer
-#+TITLE: Empreendedorismo Digital \linebreak \newline \large Ideia de Projeto - Plano de Software
-#+AUTHOR: Anderson Andrei da Silva
+#+TITLE: Empreendedorismo Digital \linebreak \newline \large Ideia de Negocio - Plano de Software
+#+AUTHOR: Anderson Andrei da Silval
 #+LANGUAGE:    bt-br
 #+TAGS: noexport(n) Stats(S)
 #+TAGS: Teaching(T) R(R) OrgMode(O) Python(P)
@@ -36,7 +36,6 @@
 #+LATEX_HEADER: \usepackage{textcomp}
 #+LATEX_HEADER: \usepackage{pgfplots}
 #+LATEX_HEADER: \usepackage{todonotes}
-#+LATEX_HEADER: \usepgfplotslibrary{dateplot}
 #+LATEX_HEADER: \lstdefinelanguage{Julia}%
 #+LATEX_HEADER:   {morekeywords={abstract,struct,break,case,catch,const,continue,do,else,elseif,%
 #+LATEX_HEADER:       end,export,false,for,function,immutable,mutable,using,import,importall,if,in,%
@@ -51,6 +50,7 @@
 #+LATEX_HEADER: }[keywords,comments,strings]%
 #+LATEX_HEADER: \lstset{ %
 #+LATEX_HEADER:   backgroundcolor={},
+#+LATEX_HEADER:   date = {},
 #+LATEX_HEADER:   basicstyle=\ttfamily\scriptsize,
 #+LATEX_HEADER:   breakatwhitespace=true,
 #+LATEX_HEADER:   breaklines=true,
@@ -70,7 +70,45 @@
 #+LATEX_HEADER: \renewcommand*{\UrlFont}{\ttfamily\smaller\relax}
 
 * Ideia de Negocio (plano de software)
+Um aplicativo que conecte empresas, Universidades ou agências de financiamento que
+desejam desenvolver projetos de pesquisa, com pesquisadores
+(professores ou estudantes). O usuário enquanto empresa, Universidade ou agência de
+financiamento, possuindo um projeto de pesquisa e estando à procura de
+pesquisadores que possam desenvolvê-las, publicam a descrição dos
+projetos nessa plataforma, especificando além do projeto, o perfil
+desejado do pesquisador. O usuário enquanto pesquisador, insere na
+plataforma seu currículo e informações como área de atuação. A partir
+de dados cadastrados, ambos os usuários podem pesquisar o que tem
+interesse a partir de filtros ou até mesmo uma seleção inteligente,
+feita pelo próprio aplicativo. Encontrando algo que interesse, o
+aplicativo intermedia a comunicação entre ambas as pontas e a partir de uma interface que envie um e-mail
+automático direciona o primeiro contato.
 * Qual a tendência percebida?
+Enquanto aluno e pesquisador é perceptível que muitos estudantes
+desejam iniciar suas carreiras de pesquisa, ou ao menos ter uma
+primeira experiência, mas não sabem ao certo como fazê-la ou não
+encontram pesquisadores experientes na área para direcioná-los. Da
+mesma forma que no meio Universitário é perceptível a existências de
+alunos que tem dificuldade em encontrar opções de pesquisas para
+desenvolver, ou financiamento em sua área. Para pesquisadores sênior
+como professores, é possível auxiliá-los na busca de financiamento
+para projetos e então direcioná-los para outros pesquisadores sob sua
+orientação.
+Quanto empresas, Universidades ou agências de financiamento, acredito que também exista dificuldade em encontrar
+pesquisadores para todos os projetos que desejam desenvolver.
 * Por que é inovadora?
+Porque sana um problema importante e parece não existir ferramentas
+que dessa forma centralizem informações, nem façam a conexão desses dois
+meios interessados.
 * Por que é escalável?
+Porque o aplicativo pode ser utilizado por qualquer usuário que busque
+projetos para trabalhar, ou usuários que procurem por interessados. Ou
+seja, qualquer empresa, Universidade, agência de financiamento ou pesquisador do
+país. Além de, tal estrutura parecer, em um primeiro momento, escalável a nível
+global, pelos mesmos motivos.
 * Por que é viável?
+Além do tópico ser de suma importância, o desenvolvimento do
+aplicativo não aparenta requerer custos altos além do desenvolvimento e
+manutenção da plataforma. E pelo mesmo motivo que aparenta ser
+escalável, aparenta ser passível de uso por diversos lugares e
+interessados. 
