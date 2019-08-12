@@ -1,0 +1,18 @@
+-# -- mode: org --
+# -- coding: utf-8 --
+#+STARTUP: overview indent inlineimages logdrawer
+#+TITLE:  Andrei's Journal - Empreendedorismo Digital
+#+AUTHOR:      Andrei
+#+LANGUAGE:    en
+#+TAGS: noexport(n) Stats(S)
+#+TAGS: Teaching(T) R(R) OrgMode(O) Python(P) Julia(J)
+#+TAGS: Book(b) Paper(p) Presentation(p) Scheduler(S) Alfredo(G) Pedro(P) SCHOLL(S) Andrei(a) WeekReview(w) CodeReviewed(c) Meeting(M)
+#+EXPORT_SELECT_TAGS: Blog
+#+OPTIONS:   H:3 num:t toc:nil \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+OPTIONS:   TeX:t LaTeX:t skip:nil d:nil todo:t pri:nil tags:not-in-toc
+#+EXPORT_SELECT_TAGS: export
+#+EXPORT_EXCLUDE_TAGS: noexport
+#+COLUMNS: %25ITEM %TODO %3PRIORITY %TAGS
+#+SEQ_TODO: TODO(t!) STARTED(s!) WAITING(w@) APPT(a!) | DONE(d!) CANCELLED(c!) DEFERRED(f!) | REPORT(r!)
+
+* Aula 1, 05-08-2019

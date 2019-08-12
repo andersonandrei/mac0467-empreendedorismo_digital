@@ -1,0 +1,39 @@
+-# -- mode: org --
+# -- coding: utf-8 --
+#+STARTUP: overview indent inlineimages logdrawer
+#+TITLE:  Andrei's Journal - Empreendedorismo Digital
+#+AUTHOR:      Andrei
+#+LANGUAGE:    en
+#+TAGS: noexport(n) Stats(S)
+#+TAGS: Teaching(T) R(R) OrgMode(O) Python(P) Julia(J)
+#+TAGS: Book(b) Paper(p) Presentation(p) Andrei(a) WeekReview(w) CodeReviewed(c) Meeting(M)
+#+TAGS: FVG(F) IME(I)
+#+EXPORT_SELECT_TAGS: Blog
+#+OPTIONS:   H:3 num:t toc:nil \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+OPTIONS:   TeX:t LaTeX:t skip:nil d:nil todo:t pri:nil tags:not-in-toc
+#+EXPORT_SELECT_TAGS: export
+#+EXPORT_EXCLUDE_TAGS: noexport
+#+COLUMNS: %25ITEM %TODO %3PRIORITY %TAGS
+#+SEQ_TODO: TODO(t!) STARTED(s!) WAITING(w@) APPT(a!) | DONE(d!) CANCELLED(c!) DEFERRED(f!) | REPORT(r!)
+
+* Aula 1, 05-08-2019
+** TODO Pra próxima aula, Entrega / Apresentação: Ideias de negócio, 4 parágrafos (Ideia, inovação, escalabilidade e viabilidade)
+Conferir tendências em: www.springwise.com
+** Aula 1: Ecossistemas de Startups de Software  
+*** Universidades
+Infra Digital
+Empresas (grandes e startups)
+Recursos humanos
+Investimento (público, anjo ou você).
+Mercado (local e global)
+Espírito empreendedor
+
+Body of knowlegde 
+Society and culture
+Funding bodies
+Organizations
+Market
+Legal frame
+Entrepreneur (Startup)
+
+ 
